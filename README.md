@@ -1,6 +1,6 @@
 # WoundFrame
 
-**WoundFrame** is an open-source Python workflow for scale-normalizing longitudinal wound photographs and assembling reproducible subject-by-timepoint image panels.
+**WoundFrame** is an open-source Python workflow for scale-normalizing wound photographs and assembling reproductible subject-by-timepoint image panels.
 
 
 **Author:** Ștefan-Rareș Maxim  
