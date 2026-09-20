@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use WoundFrame in research, figures, analyses, presentations, or publications, please cite this software."
+title: "WoundFrame: Reproducible scale-normalized wound image panels"
+type: software
+authors:
+  - family-names: "Maxim"
+    given-names: "Ștefan-Rareș"
+version: "1.0.0"
+date-released: "2026-09-20"
+license: "BSD-3-Clause"
+abstract: >-
+  WoundFrame is a reproducible Python workflow for standardizing longitudinal
+  wound photographs to a common physical scale, extracting fixed physical
+  fields of view, and generating subject-by-timepoint image panels while
+  preserving calibration coordinates, processing settings, software versions,
+  and SHA-256 source-image hashes.
+keywords:
+  - wound healing
+  - image standardization
+  - longitudinal imaging
+  - preclinical imaging
+  - reproducible research
+  - wound photography

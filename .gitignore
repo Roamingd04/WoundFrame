@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated data / local runs
+wound_panel_output/
+_wound_panel_cache/
+error_log.txt
+
+# Input data: do not accidentally commit study images
+*.zip
+data/
+raw_images/
+photos/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

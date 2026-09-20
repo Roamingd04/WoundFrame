@@ -1,0 +1,4 @@
+# Versions used to prepare and smoke-test release 1.0.0
+numpy==2.3.5
+opencv-python==4.13.0.92
+matplotlib==3.10.8
